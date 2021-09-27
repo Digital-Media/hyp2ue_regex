@@ -7,7 +7,7 @@
 <body>
 <?php
 
-// TODO: see Examples/regex for an example, how to implement this exercise
+// TODO: see hype2ue-t1-ue1-regex/example for an example, how to implement this exercise
 
 // TODO: Declare and initialize a variable, that holds the sum of EUROs
 
