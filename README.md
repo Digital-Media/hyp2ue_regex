@@ -1,4 +1,4 @@
-# hyp2ue-regex
+# hyp2ue_regex
 
 To beginn with the exercise download the repository from GitHub using PHPStorm.
 Start PHPStorm and use "Get from VCS", if you add a project to PHPStorm for the first time.
